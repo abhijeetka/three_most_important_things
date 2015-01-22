@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" name="tests.test_docktst.TestView-20150120010828" tests="1" time="0.012">
+	<properties/>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+	<testcase classname="tests.test_docktst.TestView" name="test_register" time="0.012"/>
+</testsuite>

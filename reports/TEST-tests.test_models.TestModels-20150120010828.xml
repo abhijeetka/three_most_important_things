@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="1" name="tests.test_models.TestModels-20150120010828" tests="1" time="0.002">
+	<properties/>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+	<testcase classname="tests.test_models.TestModels" name="test_something" time="0.002">
+		<failure message="'2014-12-10' != '2014-jan-10'" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "/var/www/python_ci/three_most_important_things-master/tests/test_models.py", line 18, in test_something
+    self.assertEquals(self.day1.date, '2014-jan-10')
+AssertionError: '2014-12-10' != '2014-jan-10'
+]]>		</failure>
+	</testcase>
+</testsuite>
