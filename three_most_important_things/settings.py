@@ -47,6 +47,7 @@ INSTALLED_APPS = (
     'django_jenkins',
     'polymer',
     'accounts',
+    'django_extensions',
 )
 
 
